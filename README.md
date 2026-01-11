@@ -1,5 +1,5 @@
 # Student-Records-AVL-Tree-implementation
-A college assignment which uses the AVL Tree Data structure to store student records based on roll number/marks as the key to speed up student look up due to O(nlogn) time complexity of AVL Tree
+A college assignment which uses the AVL Tree Data structure to store student records based on roll number/marks as the key to speed up student look up due to O(logn) time complexity of AVL Tree
 # Project Directory Structure
 **courseinfo.h** :  A header file defining the struct "course" that will be later used for storing student course data  
 
